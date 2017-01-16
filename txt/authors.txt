@@ -1,0 +1,14 @@
+{Arek|Arkadiusz|Artur|Adrianna|Ada|Adam|Antek|Adrian|Agata|Aga|Agnieszka|Albert|Alberta|Aneta|Anetka|Aleks|Alex|Aleksander|Alek|Ala|Alicja|Alfreda|Alicjana|Andrzej|
+Angelika|Angela|Anita|Aniela|Ania|Anna|Ariadna|Augustyn|Augustyna|Asia|Barbara|Basia|Bartłomiej|Bartłomieja|Bartosz|Beata|Beatka|Benedykt|Ben|Bernard|Bianka|
+Błażej|Bogdan|Bogumił|Bogumiła|Bogusław|Bogusława|Bolek|Bronisław|Bruno|Basia|Bartek|Czarek|Cecylia|Celina|Cezary|Czarek|Ciechosława|Czesio|Cyprian|Czasław|Czasława|
+Czesław|Czesława|Darek|Danka|Dagmara|Damian|Daniel|Danuta|Daria|Dariusz|Dawid|Dominik|Dominika|Dorotka|Dorota|Edzio|Edmund|Edward|Edyta|Edytka|Eliasz|Eliza|Elizka|Elżbieta|
+Emilian|Emil|Emilia|Eryk|Ewa|Ewelina|Ewelinka|Elka|Franek|Fabian|Faustyna|Ferdek|Filip|Franciszek|Fryderyk|Gabriel|Gabriela|Grześ|Grzesiek|Grzegorz|Gustaw|Gosia|Gośka|Grzesiek|Grześ|
+Halina|Hanna|Hania|Helena|Henryk|Hiacynta|Hubert|Iza|Ignacy|Igor|Ilona|Irena|Ireneusz|Iwona|Iwonka|Izabela|Jacek|Jadwiga|Jagoda|Jakub|Janina|Janusz|Jan|Jaś|Jasiek|Jasiu|
+Jarosław|Jarek|Jarosława|JJeremiasz|Jerzy|Jurek|Jędrzej|Joanna|Jolanta|Jola|Jolka|Jonasz|Jowita|Józef|Julia|Justyna|Kinga|Kaśka|Kasia|Kubuś|Kuba|Kajetan|Kamil|Kamila|Karina|
+Karol|Karolina|Katarzyna|Kazimierz|Klaudia|Klementyna|Konrad|Kordian|Kornelia|Krystian|Krystyna|Krzysztof|Krzysztofa|Ksawery|Krzyś|Krzysiek|Lech|Leszek|Leokadia|Leon|Lidia|Lidka|
+Liwia|Łucja|Lucjan|Lucjusz|Lucyna|Ludwik|Łucja|Łukasz|Maciej|Maciek|Magdalena|Magda|Maja|Malwina|Małgorzata|Maja|Majka|Marcela|Marcelina|Marcin|Marek|Maria|Marysia|Magdalena|Madzia|
+Marian|Marianna|Marika|Mariola|Mariusz|Marta|Martyna|Marzanna|Marzena|Mateusz|Mati|Max|Maks|Michal|Misia|Michalina|Misiek|Mieczysław|Mikołaj|Milena|Miłosz|Monika|Monia|
+Max|Mati|Maks|Monika|Monia|Mirek|Misiek|Maciuś|Maciek|Nadzieja|Natalia|Nikodem|Norbert|Olaf|Ola|Olka|Olga|Oliwer|Oliwia|Oskar|Otylia|Patrycja|Patryk|Paula|Paulina|Pawel|Piotr|
+Piotrek|Przemysl|Przemek|Przymyslaw|Radek|Radoslaw|Rafal|Rebeka|Regina|Remigiusz|Renata|Rita|Robert|Roksana|Roland|Roman|Romek|Rysiek|Ryszard|SamuelSandra|Sara|Sebastian
+|Stanislaw|Stanislawa|Stefan|Stefania|Staszek|Sylwester|Sylwia|Tadek|Tomasz|Tomek|Tadeusz|Teresa|Tobiasz|Tymon|Tymoteusz|Tymek|Ulka|Ula|Urszula|Wacław|Wiktoria|Wiktor|Wit|
+Witold|Wladek|Wojciech|Wojtek|Zbigniew|Zbigniewa|Zbygniew|Zbyszek|Zuzia|Zofia|Zuza|Zuzanna|Zygmunt}
