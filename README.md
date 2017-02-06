@@ -1,2 +1,2 @@
 # commentsGenerator
-Comments generator - chose comment and nic form file and generate comment
+Comments generator - this program is choosing comment and nick from file and generate comment
