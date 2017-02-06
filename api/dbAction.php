@@ -21,7 +21,8 @@ class dbAction
         }
     }
 
-    static public function selectObject($object_type)
+
+    static public function getNoCommentsRecord($object_type)
     {
         switch ($object_type) {
             case('product'):
@@ -34,45 +35,7 @@ class dbAction
                 $table = 'meal';
                 break;
             case('motivation'):
-                $table = 'photo';
-                break;
-            default:
-                echo 'ERROR: Tabela nie istnieje';
-                break;
-        }
-        self::getConnection();
-        try {
-            $stmt = self::$conn->prepare('SELECT p.*, count(c.id) as comments, sum(if(c.spintax = 1, 1, 0)) as spintax  
-                                          FROM ' . $table . ' p
-                                          INNER JOIN newhope_jestemfit.comments c
-                                          ON p.' . (isset($id) ? $id : 'id') . ' = c.object_id
-                                          WHERE spintax < 2
-                                          AND c.object_type = "' . $object_type .
-                '" GROUP BY ' . (isset($id) ? $id : 'id') .
-                ' ORDER BY comments LIMIT 1');
-            $stmt->execute();
-            return $stmt->fetch(PDO::FETCH_ASSOC);
-        } catch (PDOException $e) {
-            error_log("Error: " . $e->getMessage());
-        }
-        self::closeConnection();
-    }
-
-
-    static public function noComments($object_type)
-    {
-        switch ($object_type) {
-            case('product'):
-                $table = 'legacy_meals_product';
-                break;
-            case('article'):
-                $table = 'legacy_meals_product';
-                break;
-            case('meal'):
-                $table = 'legacy_meals_meal';
-                break;
-            case('motivation'):
-                $table = 'motywacja';
+                $table = 'motivation';
                 break;
             default:
                 error_log('Table with this name ' . $object_type . ' does not exist');

@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__ . '/Spintax.class.php');
+require_once(__DIR__ . '/Spintax.php');
 
 class Author extends Spintax
 {
@@ -8,7 +8,7 @@ class Author extends Spintax
 
     public function __construct()
     {
-        $this->authors = (file_get_contents(__DIR__ . "/../texts/authors.txt"));
+        $this->authors = (file_get_contents(__DIR__ . "/../txt/authors.txt"));
     }
 
     public function chooseAuthor()
